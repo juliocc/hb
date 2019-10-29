@@ -1,0 +1,5 @@
+group1_region = "europe-west1"
+group2_region = "europe-west4"
+group3_region = "europe-north1"
+project       = "hb-test-255515"
+network_name  = "hb-test-mig"
